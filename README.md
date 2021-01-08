@@ -178,7 +178,7 @@ A small amount of data has been corrupted in a recoverable way. The user still h
 
 Data corruption refers to errors in computer data that occur during writing, reading, storage, transmission, or processing, which introduce unintended changes to the original data. Computer, transmission, and storage systems use a number of measures to provide end-to-end data integrity, or lack of errors.
 
-Data corruption
+### NOTE - Data corruption
 
 In general, when data corruption occurs a file containing that data will produce unexpected results when accessed by the system or the related application. Results could range from a minor loss of data to a system crash. For example, if a document file is corrupted, when a person tries to open that file with a document editor they may get an error message, thus the file might not be opened or might open with some of the data corrupted (or in some cases, completely corrupted, leaving the document unintelligible). The adjacent image is a corrupted image file in which most of the information has been lost.
 
@@ -186,7 +186,8 @@ Some types of malware may intentionally corrupt files as part of their payloads,
 
 Some programs can give a suggestion to repair the file automatically (after the error), and some programs cannot repair it. It depends on the level of corruption, and the built-in functionality of the application to handle the error. There are various causes of the corruption.
 
-Overview
+###  Overview
+
 File:Fourteen Second Clip of Corrupted Video.ogv
 A video that has been corrupted. Warning: This video contains bright, flashing images.
 There are two types of data corruption associated with computer systems: undetected and detected. Undetected data corruption, also known as silent data corruption, results in the most dangerous errors as there is no indication that the data is incorrect. Detected data corruption may be permanent with the loss of data, or may be temporary when some part of the system is able to detect and correct the error; there is no data corruption in the latter case.
