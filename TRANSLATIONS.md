@@ -57,7 +57,7 @@ Then go on github, click "New Pull Request", and then fill in your branch and ma
 
 ## Finally, give a translation of the description
 
-If you can, in your PR, please include a translation of the description of the app for stores:
+If you can, in your PR, kindly include a translation of the description of the app for stores:
 
 > Quirk is a tool for Cognitive Behavioral Therapy (CBT). CBT is one of the most effective and widely prescribed treatments for depression, anxiety, panic disorder, and multiple other mental health problems.  
 > Quirk helps you record "automatic thoughts," challenge them, and then train your brain with an alternative thought.
