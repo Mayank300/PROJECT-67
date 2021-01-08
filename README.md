@@ -27,7 +27,7 @@ If you want to fork Quirk, you should fork off of [this commit](https://github.c
 
 ---
 
-<p align="center">
+<p align="left">
 <h1 align="center">✨🐙 quirk. </h1>
 </p>
 <p align="center">
@@ -103,7 +103,7 @@ If you already have XCode installed with a simulator, you can just press `i` to 
 
 # Can I help?
 
-Of course!
+Yes !
 
 **If you like the app,** go give it 5 stars! It helps more people find the app.
 
